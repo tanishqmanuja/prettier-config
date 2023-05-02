@@ -1,0 +1,20 @@
+{
+  "name": "@tqman/prettier-config",
+  "version": "1.0.0",
+  "description": "Shared Prettier Config",
+  "repository": "tanishqmanuja/prettier-config",
+  "author": {
+    "name": "tanishqmanuja",
+    "email": "tanishqmanuja@gmail.com",
+    "url": "https://github.com/tanishqmanuja"
+  },
+  "main": "prettierrc.json",
+  "files": [
+    "prettierrc.json"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  },
+  "prettier": "./prettierrc.json"
+}
